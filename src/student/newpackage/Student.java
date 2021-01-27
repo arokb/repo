@@ -6,6 +6,7 @@ public class Student {
 private int studentID;
 private String studentName;
 private String progName;
+int dude;
 
 //constructor - name of the constructor has to match the name of the Class
 
